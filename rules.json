@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||paypa1-secure.test",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||micros0ft-login.test",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||goog1e-verify.test",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||secure.account-confirm.login.bankofamerica-update.test",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||signin.verify.update.appleid-support.test",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||amaz0n-order-confirm.test",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||netfl1x-billing-update.test",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||login.secure-chase-alert.test",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||dropb0x-fileshare-login.test",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||instagram-password-reset-verify.invalid",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||wellsfarg0-secure-signin.invalid",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 12,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||update.account.linked1n-verify.test",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 13,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||ebay-account-suspended-action.invalid",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 14,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||tw1tter-security-alert.test",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 15,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "extensionPath": "/blocked/blocked.html" }
+    },
+    "condition": {
+      "urlFilter": "||secure.login.verify.auth.steam-support.test",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
