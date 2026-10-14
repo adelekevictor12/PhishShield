@@ -5,7 +5,8 @@
     "description": "An extra protection layer that blocks configured phishing test domains.",
     "permissions": [
         "declarativeNetRequest",
-        "storage"
+        "storage",
+        "alarms"
     ],
     "host_permissions": [
         "<all_urls>"
